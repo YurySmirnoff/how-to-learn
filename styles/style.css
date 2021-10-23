@@ -12,7 +12,7 @@ div {
   /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
 .header {
@@ -29,7 +29,7 @@ div {
 .logo {
   width: 183px;
   height: 32px;
-  background-image: url('../images/logo_place_header.svg');
+  background-image: url("../images/logo_place_header.svg");
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 1;
@@ -80,7 +80,7 @@ div {
 .content {
 }
 /* Секция, блок description */
-.description{
+.description {
   margin: 100px 0;
 }
 .two-columns {
@@ -134,7 +134,7 @@ div {
   width: 60%;
   margin: 0 auto;
 }
-.section-subtitle{
+.section-subtitle {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -184,7 +184,6 @@ div {
   font-weight: bold;
   text-align: center;
   margin: 0 auto;
-
 }
 .feynman__subtitle {
   line-height: 51px;
@@ -266,11 +265,10 @@ div {
 .footer__column_content_info {
 }
 .footer__column_content_social {
-
 }
 .logo_place_footer {
   height: 35px;
-  background-image: url('../images/logo_place_footer.svg');
+  background-image: url("../images/logo_place_footer.svg");
 }
 .footer__author {
   line-height: 25px;
